@@ -8,6 +8,11 @@ Revit二次开发资料汇总
 
 https://meetbestzhe.github.io/posts/d7b85700.html
 
+RevitAPI之获取元素的几何数据
+
+https://blog.csdn.net/bbkxw001/article/details/78804511
+
+
 从族实例（FamilyInstance）中取得几何对象（GeometryObject）（Revit二次开发）
 
 https://blog.csdn.net/weixin_46433786/article/details/112570588?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-11.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-11.control
